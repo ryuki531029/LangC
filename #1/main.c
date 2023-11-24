@@ -5,3 +5,4 @@ int main(void){
     printf("HelloRyuki\n");
     return 0;
     }
+
